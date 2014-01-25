@@ -8,6 +8,6 @@ Upload two songs from your computer and enjoy. (Please follow copyright laws...)
 
 ## More information
 
- * [Echonest API reference](https://developer.spotify.com/technologies/apps/docs/)
+ * [Echonest API reference](http://developer.echonest.com/docs/v4)
 
 Your feedback is welcome! Please feel free to create issues and send pull requests.
